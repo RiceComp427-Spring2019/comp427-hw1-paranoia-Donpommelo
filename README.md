@@ -24,13 +24,21 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: {TSA}
 - Assumptions:
-  - explain_your_assumptions
+  - We must assume that each passenger has highly confidential information. 
+  - To ascertain the safety of the flight, this information must be obtained.
+  - We must verify that this information is valid.
+  - This information should be stored so that if something goes wrong, responsibility can be properly delegated.
+  - It is important that flights stick to their schedules with minimal delay.
+  - People's rights and privacies must be respected.
+  - Due to the above 2, there must be standards for how serious a risk must be to stop/delay a flight or prevent an individual from boarding their desired flight.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Information about the backgrounds of passengers. This information must be stored and kept secure. Also, we must obtain the minimum amount of information possible to determine what is a threat.
+  - Information about the flight. It is important that other entities cannot observe or tamper with the plane remotely. Most likely, the structure of the plane itself also has certain industry secrets that must be kept private for business reasons.
+  - The physical wellbeing, comfort and convenience of the plane and passengers.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - The threat that first comes to mind is a terrorist attack threatening the physical wellbeing of the plane and its passengers. This could be done for ideological, political, economic or personal purposes.
+  - People could take advantage of the data taken by the TSA to violate the privacy of passengers. If we know that a prominent politician is on a flight, we know the TSA will be sitting on their personal information as a result of standard background checks and have a motivation to illicitly acquire that data for political purposes.
+  - Remote threats to the plane while it is in flight. This includes shutting down or altering the plane's functions from a distance.
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
