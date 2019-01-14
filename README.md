@@ -51,7 +51,7 @@ please cut-and-paste the text from that email here._
 - Assumptions:
   - We assume that we will need to screen a large number of individuals in a limited time. These individuals are here to enjoy themselves and will be less receptive of security measures that put a damper on their mood. (compared to plane riders)
   - We assume that our physical employees will not be experts on computer security.
-  - We assume that we use a venue that already has some basic safety measures in place (fire evacuation routes, first aid stations). If it does not have these.
+  - We assume that we use a venue that already has some basic safety measures in place (fire evacuation routes, first aid stations).
 - Assets:
   - The physical wellbeing and happiness of attendants and staff.
   - The value of the venue and event.
@@ -67,16 +67,20 @@ please cut-and-paste the text from that email here._
   - Periodically, we could have brief reminders during the games to remind people to be safe, as well as highlight evacuation routes. This probably accomplishes very little, but also costs very little.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: You are humble potato farmer
 - Assumptions:
-  - explain_your_assumptions
+  - We are running a business with a close margin of profit. Due to the scale of our operations, it is more difficult to justify expensive security measures. At the same time, even small threats to our assets would have severe consquences due to our economic position.
+  - While we cannot ignore the possibility of intentional, purposeful attacks, but we are not a politcally relevant entity, so we should prioritize accidental, natural threats.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Our crop, land and the welfare of ourselves and fieldhands.
+  - The reputation that he may hold for the quality of our product.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - The most likely threats are natural; disease, wild animals and poor weather all threaten the yearly crop.
+  - Additionally, equipment and health related accidents could strike you and other field workers.
+  - While purposeful threats are less likely, there is the possibility of crop/equipment sabotage from rival vendors, land-buyers, bored teeneagers, etc.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Little can be done about many natural threats that is within your acceptable price range. Some human or animal security could address both wild animals as well as certain human threats though.
+  - While it is difficult to protect ourselves from threats of disease and weather, we can attempt to prepare to ameliorate their negative effects by using tactics like growing more resilient crops and crop rotation.
+  - We can perform regular maintenence on our equipment to reduce the threat of accidents.
+ 
 
